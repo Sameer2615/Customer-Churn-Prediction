@@ -42,29 +42,29 @@ Key transformations:
 
 Created interactive dashboards with:
 
-📌 Summary Metrics
+📌 Summary Metrics - 
    • Total Customers
    • New Joiners
    • Total Churn
    • Churn Rate
 
-📌 Demographic Analysis
+📌 Demographic Analysis - 
    • Gender vs Churn
    • Age Group distribution
 
-📌 Geographical Insights
+📌 Geographical Insights - 
    • Churn by Top 5 States
 
-📌 Account & Contract Insights
+📌 Account & Contract Insights -
    • Tenure Groups
    • Contract Type
    • Payment Method
 
-📌 Services & Churn
+📌 Services & Churn -
    • Internet Type
    • Add-on Services impact on churn
 
-📌 Churn Reasons
+📌 Churn Reasons - 
    • Churn Category
    • Churn Reason (tooltip drill-down)
 

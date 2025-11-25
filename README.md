@@ -24,9 +24,8 @@ The project helps businesses:
    - State-wise customer distribution
 
 - Created views for reporting:
-
-• vw_ChurnData – Churned/Stayed customers
-• vw_JoinData – Newly joined customers
+   - vw_ChurnData - Churned/Stayed customers
+   - vw_JoinData - Newly joined customers
 
 2️⃣ Data Modeling & Power BI Transformations
 

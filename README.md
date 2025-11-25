@@ -69,7 +69,7 @@ Created interactive dashboards with:
    • Churn Category
    • Churn Reason (tooltip drill-down)
 
-<img width="1905" height="777" alt="Sales Dashboard (2)" src="https://github.com/Sameer2615/Future_DS_02/blob/main/Facebook%20Campaign%20Ad%20Dashboard.png" />
+<img width="1905" height="777" alt="Sales Dashboard (2)" src="https://github.com/Sameer2615/Customer-Churn-Prediction/blob/main/Dashboard_images/Churn%20Analysis%20-%20Summary.png" />
 
 4️⃣ Machine Learning – Churn Prediction (Python)
 
